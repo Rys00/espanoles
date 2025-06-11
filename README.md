@@ -9,7 +9,7 @@ _Czy uważasz, że uczniowie mają zbyt dużo dni wakacyjnych? Wyraź swoją opi
 **1. Creo que los estudiantes no tienen demasiados días de vacaciones.**  
 _Uważam, że uczniowie nie mają zbyt wielu dni wakacji._
 
-**2. Opino que ellos necesitan descansar porque las clases son largas y difíciles.**  
+**2. Opino que necesitan descansar porque las clases son largas y difíciles.**  
 _Sądzę, że potrzebują odpoczynku, ponieważ lekcje są długie i trudne._
 
 **3. Además, es importante tener tiempo para la familia.**  
@@ -35,20 +35,20 @@ _Bilety miesięczne na transport publiczny w Warszawie są zbyt drogie. Wyraź s
 **1. Creo que los billetes son demasiado caros para muchas personas.**  
 _Uważam, że bilety są zbyt drogie dla wielu osób._
 
-**2. He usado el transporte público varias veces este mes.**  
-_Używałem transportu publicznego kilka razy w tym miesiącu._
+**2. Utilizo a menudo el transporte público.**  
+_Często używam transportu publicznego._
 
-**3. El precio no ha cambiado mucho en los últimos años.**  
-_Cena nie zmieniła się dużo w ostatnich latach._
+**3. Porque tengo una gran familia, tengo billetes baratos.**  
+_Ponieważ mam dużą rodzinę, mam tanie bilety._
 
-**4. Opino que deberían bajar los precios para estudiantes y trabajadores.**  
-_Uważam, że powinni obniżyć ceny dla studentów i pracowników._
+**4. Pero a precios normales las billetes son demasiado caras.**  
+_Ale przy normalnych cenach bilety są za drogie._
 
-**5. Muchas personas han dejado de usar el transporte público por el precio.**  
+**5. Opino que deberían bajar los precios para estudiantes.**  
+_Uważam, że powinni obniżyć ceny dla studentów._
+
+**6. Muchas personas han dejado de usar el transporte público por el precio.**  
 _Wiele osób przestało korzystać z transportu publicznego z powodu ceny._
-
-**6. Por favor, escuchen a los ciudadanos y mejoren el sistema.**  
-_Proszę, posłuchajcie obywateli i ulepszcie system._
 
 ---
 
@@ -58,23 +58,23 @@ _Egzamin ustny z języków obcych jest konieczny. Co o tym sądzisz?_
 
 `El examen oral de las lenguas extranjeras es necesario. ¿Qué opinas? Min. 6 frases.`
 
-**1. Creo que el examen oral es muy importante para practicar el habla.**  
-_Uważam, że egzamin ustny jest bardzo ważny, żeby ćwiczyć mówienie._
+**1. No creo que el examen oral sea necesario.**  
+_Nie sądzę, żeby egzamin ustny był konieczny._
 
-**2. He preparado muchas veces para exámenes orales y siempre me ayudan.**  
-_Przygotowywałem się wiele razy do egzaminów ustnych i zawsze mi pomagają._
+**2. Especialmente en un nivel bajo de lenguaje.**  
+_W szczególności na niskim poziomie języka._
 
-**3. El profesor ha evaluado mi pronunciación y comprensión oral.**  
-_Nauczyciel ocenił moją wymowę i rozumienie ze słuchu._
+**3. Es difícil encontrar frases sensatas.**  
+_Ciężko jest wymyślić sensowne zdania_
 
-**4. Opino que sin examen oral no se puede saber bien el nivel.**  
-_Uważam, że bez egzaminu ustnego nie można dobrze poznać poziomu._
+**4. Opino que muchas personas se ponen nerviosas.**  
+_Myślę, że wiele osób się denerwuje._
 
-**5. A veces los estudiantes tienen miedo, pero deben practicar más.**  
-_Czasem uczniowie się boją, ale powinni więcej ćwiczyć._
+**5. También se puede practicar la pronunciación en clase.**  
+_Wymową można również ćwiczyć w klasie._
 
-**6. ¡Habla, escucha y responde con confianza!**  
-_Mów, słuchaj i odpowiadaj z pewnością!_
+**6. Creo que los ejercicios escritos son más justos.**  
+_Myślę, że ćwiczenia pisemne są sprawiedliwsze._
 
 ---
 
@@ -84,23 +84,23 @@ _Znajomość gramatyki jest ważniejsza niż znajomość słownictwa. Wyraź swo
 
 `Conocer la gramática es más importante que conocer el vocabulario. Expresa tu opinión. Min 6 frases`
 
-**1. Pienso que la gramática es básica para construir frases correctas.**  
-_Myślę, że gramatyka jest podstawą do budowania poprawnych zdań._
-
-**2. He estudiado gramática y vocabulario cada día.**  
-_Uczyłem się codziennie gramatyki i słownictwa._
-
-**3. El vocabulario es útil, pero sin gramática es difícil hablar bien.**  
-_Słownictwo jest przydatne, ale bez gramatyki trudno mówić dobrze._
-
-**4. Opino que la gramática y el vocabulario son importantes juntos.**  
+**1. Opino que la gramática y el vocabulario son importantes juntos.**  
 _Uważam, że gramatyka i słownictwo są ważne razem._
 
-**5. En mis clases, hemos practicado gramática con ejemplos prácticos.**  
-_Na moich lekcjach ćwiczyliśmy gramatykę na praktycznych przykładach._
+**2. Pienso que el vocabulario es básica para llevarse.**  
+_Myślę, że słownictwo jest podstawą do dogadania się._
 
-**6. ¡Estudia la gramática y aprende palabras nuevas todos los días!**  
-_Ucz się gramatyki i codziennie poznawaj nowe słowa!_
+**3. Pero sin gramática es difícil hablar bien.**  
+_Ale bez gramatyki trudno mówić dobrze._
+
+**4. Es importante saber ambos.**  
+_To ważne aby umieć oba._
+
+**5. Pero primero aprendo el vocabulario.**  
+_Ale najpierw uczę się słownictwa._
+
+**6. Y despues la gramática**  
+_I potem gramatyki._
 
 ---
 
@@ -113,20 +113,20 @@ _Dzisiaj lepiej jest zacząć pracę po szkole średniej, a nie iść na uniwers
 **1. Creo que depende de la persona y sus objetivos.**  
 _Uważam, że to zależy od osoby i jej celów._
 
-**2. Muchas personas han encontrado buenos trabajos sin universidad.**  
-_Wiele osób znalazło dobrą pracę bez studiów._
+**3. La universidad ofrece conocimientos y experiencias importantes.**  
+_Uniwersytet daje ważną wiedzę i doświadczenia._
 
-**3. Pero la universidad ofrece conocimientos y experiencias importantes.**  
-_Ale uniwersytet daje ważną wiedzę i doświadczenia._
-
-**4. Opino que estudiar y trabajar pueden combinarse bien.**  
-_Uważam, że naukę i pracę można dobrze połączyć._
+**2. Pero muchas personas han encontrado trabajos sin universidad.**  
+_Ale wiele osób znalazło pracę bez studiów._
 
 **5. He hablado con amigos que trabajan y estudian al mismo tiempo.**  
 _Rozmawiałem z przyjaciółmi, którzy pracują i studiują jednocześnie._
 
-**6. ¡Decide según tus intereses y planea tu futuro con cuidado!**  
-_Zdecyduj według swoich zainteresowań i zaplanuj przyszłość ostrożnie!_
+**4. Opino que estudiar y trabajar pueden combinarse bien.**  
+_Uważam, że naukę i pracę można dobrze połączyć._
+
+**6. Creo que deberías hacer lo que sientas.**  
+_Myślę, że powinieneś zrobić tak jak czujesz._
 
 ---
 
@@ -154,17 +154,17 @@ _Poznaj miejscowych, żeby ćwiczyć język._
 **6. Respeta las costumbres y la cultura polaca.**  
 _Szanuj polskie zwyczaje i kulturę._
 
-**7. Participa en actividades universitarias y eventos.**  
-_Bierz udział w zajęciach i wydarzeniach uniwersyteckich._
+**7. Participa en eventos universitarias.**  
+_Bierz udział w wydarzeniach uniwersyteckich._
 
 **8. Cuida tu salud y descansa bien.**  
 _Zadbaj o zdrowie i dobrze wypoczywaj._
 
-**9. Usa aplicaciones para aprender polaco y comunicarte.**  
-_Używaj aplikacji do nauki polskiego i komunikacji._
+**9. Usa aplicaciones para aprender polaco.**  
+_Używaj aplikacji do nauki polskiego._
 
-**10. Disfruta la experiencia y sé abierto a nuevas cosas.**  
-_Ciesz się doświadczeniem i bądź otwarty na nowe rzeczy._
+**10. Disfruta la experiencia.**  
+_Ciesz się doświadczeniem._
 
 ---
 
@@ -174,35 +174,35 @@ _Twoja przyjaciółka chce jechać do Chile. Daj jej 10 rad._
 
 `Tu amiga quiere ir a Chile. Dale 10 consejos.`
 
-**1. Investiga sobre el clima y la cultura chilena.**  
-_Zbadaj klimat i kulturę Chile._
+**1. Investiga la cultura chilena.**  
+_Zbadaj kulturę Chile._
 
 **2. Prepara tu documentación y visados necesarios.**  
 _Przygotuj dokumenty i potrzebne wizy._
 
-**3. Aprende algunas frases básicas en español chileno.**  
-_Naucz się podstawowych zwrotów w chilijskim hiszpańskim._
+**3. Aprende algunas frases básicas en español.**  
+_Naucz się podstawowych zwrotów w hiszpańskim._
 
 **4. Respeta las tradiciones locales.**  
 _Szanuj lokalne tradycje._
 
-**5. Prueba la comida típica chilena, como el completo y la empanada.**  
-_Spróbuj tradycyjnych potraw chilijskich, jak completo i empanada._
+**5. Prueba la comida típica chilena.**  
+_Spróbuj tradycyjnych potraw chilijskich._
 
 **6. Usa protector solar porque hace mucho sol.**  
 _Stosuj krem z filtrem, bo jest dużo słońca._
 
-**7. Explora diferentes regiones, como la Patagonia y el desierto de Atacama.**  
-_Zwiedzaj różne regiony, jak Patagonia i pustynia Atacama._
+**7. Explora diferentes regiones.**  
+_Zwiedzaj różne regiony._
 
-**8. Cuida tus pertenencias y evita lugares peligrosos.**  
-_Trochę uważaj na swoje rzeczy i unikaj niebezpiecznych miejsc._
+**8. Evita lugares peligrosos.**  
+_Unikaj niebezpiecznych miejsc._
 
 **9. Aprovecha para practicar español con los locales.**  
 _Wykorzystaj okazję, żeby ćwiczyć hiszpański z miejscowymi._
 
-**10. Disfruta la experiencia y aprende mucho.**  
-_Ciesz się doświadczeniem i dużo się ucz._
+**10. Disfruta la experiencia.**  
+_Ciesz się doświadczeniem._
 
 ### 8. ¿Qué has hecho esta semana? 10 frases.
 
@@ -219,17 +219,17 @@ _Chodziłem na siłownię trzy razy._
 **3. He hablado con mis amigos por teléfono.**  
 _Rozmawiałem z przyjaciółmi przez telefon._
 
-**4. He cocinado comida saludable.**  
-_Gotowałem zdrowe jedzenie._
+**4. He ido al cine con mi familia.**  
+_Poszedłem do kina z moją rodziną._
 
-**5. He leído un libro interesante.**  
+**5. He visto una película interesante - MI FR.**  
+_Oglądałem ciekawy film._
+
+**6. He leído un libro interesante.**  
 _Czytałem ciekawą książkę._
 
-**6. He trabajado en un proyecto de la universidad.**  
+**7. He trabajado en un proyecto de la universidad.**  
 _Pracowałem nad projektem na uczelnię._
-
-**7. He visto una película nueva.**  
-_Oglądałem nowy film._
 
 **8. He limpiado mi habitación.**  
 _Sprzątałem mój pokój._
@@ -237,8 +237,8 @@ _Sprzątałem mój pokój._
 **9. He escuchado música para relajarme.**  
 _Słuchałem muzyki, żeby się zrelaksować._
 
-**10. He descansado bien por las noches.**  
-_Dobrze odpoczywałem w nocy._
+**10. He descansado mal por las noches.**  
+_Źle odpoczywałem w nocy._
 
 ---
 
@@ -248,35 +248,35 @@ _Co zrobiłeś w tym semestrze? W czym uczestniczyłeś? Czego się nauczyłeś?
 
 `¿Qué has hecho este semestre? ¿En qué has participado? ¿Qué has aprendido? 10 frases`
 
-**1. He asistido a muchas clases interesantes.**  
-_Chodziłem na wiele ciekawych zajęć._
+**1. He visto muchas películas interesantes.**  
+_Oglądałem wiele ciekawych filmów._
 
-**2. He participado en un club de idiomas.**  
-_Uczestniczyłem w klubie językowym._
+**2. He empezado a trabajar en Elmiko.**  
+_Zacząłem pracować w Elmiko._
 
-**3. He aprendido a usar nuevas herramientas digitales.**  
-_Nauczyłem się używać nowych narzędzi cyfrowych._
+**3. He aprendido a usar muchas cosas nuevas en la universidad.**  
+_Nauczyłem się używać wielu nowych rzeczy na uniwersytecie._
 
-**4. He trabajado en equipo con otros estudiantes.**  
-_Pracowałem w zespole z innymi studentami._
+**4. He ido a Varsonalia.**  
+_Poszedłem na Varsonalia._
 
-**5. He hecho presentaciones en clase.**  
-_Robiłem prezentacje na zajęciach._
+**5. He hecho presentacion en espanol.**  
+_Robiłem prezentację na hiszpańskim._
 
 **6. He mejorado mi nivel de español.**  
 _Poprawiłem swój poziom hiszpańskiego._
 
-**7. He leído artículos académicos.**  
-_Czytałem artykuły naukowe._
+**7. He ido mucho en bicicleta.**  
+_Jeździłem dużo na rowerze._
 
-**8. He escrito ensayos y trabajos.**  
-_Pisałem eseje i prace._
+**8. He hecho proyectos en mi universidad.**  
+_Robiłem projekty w uczelni._
 
-**9. He participado en talleres y seminarios.**  
-_Uczestniczyłem w warsztatach i seminariach._
+**9. He ido a Ełk y Poznań con mi chica.**  
+_Pojechałem do Ełku i Poznania z moją dziewczyną._
 
-**10. He aprendido a gestionar mejor mi tiempo.**  
-_Nauczyłem się lepiej zarządzać swoim czasem._
+**10. He solicitado una beca Erasmus en Eslovenia.**  
+_Złożyłem wniosek o stypendium Erasmus w słoweni._
 
 ---
 
@@ -286,14 +286,14 @@ _Opisz dzień studenta używając pretérito perfecto._
 
 `Explica el día de un estudiante utilizando pretérito perfecto y los dibujos. (Opisz dzień studenta używając pretérito perfecto (na podstawie obrazków -rutina diaria – wstał o …, wyszedł …, zjadł obiad, etc).`
 
-**1. Hoy he despertado a las siete de la mañana.**  
-_Dzisiaj obudziłem się o siódmej rano._
+**1. Hoy me he llevantado a las siete y cuarto.**  
+_Dzisiaj wstałem o 7:15._
 
-**2. He desayunado con mis compañeros.**  
-_Zjadłem śniadanie z kolegami._
+**2. He desayunado rapido.**  
+_Zjadłem szybkie śniadanie._
 
-**3. He salido de casa a las ocho.**  
-_Wyszedłem z domu o ósmej._
+**3. He salido de casa a las siete y media.**  
+_Wyszedłem z domu o 7:30._
 
 **4. He llegado a la universidad a tiempo.**  
 _Dotarrłem na uczelnię na czas._
@@ -301,8 +301,8 @@ _Dotarrłem na uczelnię na czas._
 **5. He asistido a tres clases diferentes.**  
 _Byłem na trzech różnych zajęciach._
 
-**6. He comido en la cafetería con mis amigos.**  
-_Zjadłem obiad w stołówce z przyjaciółmi._
+**6. Despues he comido con mis amigos.**  
+_Później zjadłem obiad z przyjaciółmi._
 
 **7. He estudiado en la biblioteca por la tarde.**  
 _Uczyłem się po południu w bibliotece._
@@ -313,8 +313,8 @@ _Uprawiałem sport po zajęciach._
 **9. He cenado en casa con mi familia.**  
 _Zjadłem kolację w domu z rodziną._
 
-**10. He descansado y preparado para el día siguiente.**  
-_Odpocząłem i przygotowałem się na następny dzień._
+**10. He ido a dormir a las once y media de la noche.**  
+_Poszedłem spać o jedenastej trzydzieści w nocy._
 
 ---
 
@@ -324,32 +324,32 @@ _Co robiłeś wczoraj/ w zeszłym tygodniu/ w zeszłym roku?_
 
 `¿Qué hiciste ayer/la semana pasada/ el año pasado? 10 frases`
 
-**1. Ayer fui al cine con mis amigos.**  
-_Wczoraj poszedłem do kina z przyjaciółmi._
+**1. Ayer fui al cine con mi familia.**  
+_Wczoraj poszedłem do kina z rodziną._
 
-**2. La semana pasada estudié para un examen importante.**  
-_W zeszłym tygodniu uczyłem się do ważnego egzaminu._
+**2. La semana pasada estudié para un examen.**  
+_W zeszłym tygodniu uczyłem się do egzaminu._
 
 **3. El año pasado viajé a la playa con mi familia.**  
 _W zeszłym roku pojechałem z rodziną nad morze._
 
-**4. Ayer cociné una cena especial.**  
-_Wczoraj ugotowałem specjalną kolację._
+**4. Ayer vi una pelicula interesante.**  
+_Wczoraj oglądałem ciekawy film._
 
-**5. La semana pasada trabajé en un proyecto escolar.**  
-_W zeszłym tygodniu pracowałem nad projektem szkolnym._
+**5. La semana pasada trabajé en un proyecto universidado.**  
+_W zeszłym tygodniu pracowałem nad projektem uniwersyteckim._
 
-**6. El año pasado aprendí a nadar.**  
-_W zeszłym roku nauczyłem się pływać._
+**6. El año pasado aprendí muchas palabras nuevas en español.**  
+_W zeszłym roku nauczyłem się wielu nowych słów po hiszpańsku._
 
-**7. Ayer hablé mucho con mis profesores.**  
-_Wczoraj dużo rozmawiałem z nauczycielami._
+**7. Ayer hablé mucho con mis amigos.**  
+_Wczoraj dużo rozmawiałem z moimi znajomymi._
 
 **8. La semana pasada visité a mis abuelos.**  
 _W zeszłym tygodniu odwiedziłem dziadków._
 
-**9. El año pasado participé en un concurso deportivo.**  
-_W zeszłym roku brałem udział w zawodach sportowych._
+**9. Viajé a la montaña con mi familia.**  
+_Pojechałem w góry z rodziną._
 
 **10. Ayer escuché música y relajé mi mente.**  
 _Wczoraj słuchałem muzyki i relaksowałem się._
@@ -365,20 +365,20 @@ _Czego nauczyłeś się w zeszłym roku?_
 **1. Aprendí muchas palabras nuevas en español.**  
 _Nauczyłem się wielu nowych słów po hiszpańsku._
 
-**2. Mejoré mi pronunciación y gramática.**  
-_Poprawiłem moją wymowę i gramatykę._
+**2. Y intenté ver una película en español..**  
+_I próbowałem obejrzeć film po hiszpańsku.._
 
-**3. Aprendí a usar programas de computadora.**  
-_Nauczyłem się korzystać z programów komputerowych._
+**3. Aprendí a tocar la guitarra.**  
+_Nauczyłem się grać na gitarze._
 
-**4. Descubrí técnicas para estudiar mejor.**  
-_Odkryłem techniki lepszej nauki._
+**4. Y la toqué con mis amigos.**  
+_I grałem na niej ze znajomymi._
 
-**5. Aprendí a organizar mejor mi tiempo.**  
-_Nauczyłem się lepiej organizować swój czas._
+**5. Aprendí un nuevo lenguaje de programación.**  
+_Nauczyłem się nowego języka programowania._
 
-**6. Mejoré mis habilidades de comunicación.**  
-_Poprawiłem swoje umiejętności komunikacyjne._
+**6. Y escribí un proyecto en él.**  
+_I napisałem w nim projekt._
 
 **7. Aprendí a trabajar en equipo.**  
 _Nauczyłem się pracować w zespole._
@@ -427,8 +427,8 @@ _Poznałem nowych ludzi i zdobyłem przyjaciół._
 **9. Saqué muchas fotos para recordar el viaje.**  
 _Zrobiłem dużo zdjęć na pamiątkę._
 
-**10. Volví feliz y con muchas ganas de estudiar.**  
-_Wróciłem szczęśliwy i z wielką chęcią do nauki._
+**10. Volví feliz.**  
+_Wróciłem szczęśliwy._
 
 ---
 
@@ -444,14 +444,14 @@ _Pojechałem do Barcelony zeszłego lata._
 **2. Viajé en avión con mi familia.**  
 _Podróżowałem samolotem z rodziną._
 
-**3. El clima fue muy bueno, hacía sol casi todos los días.**  
-_Pogoda była bardzo dobra, prawie codziennie świeciło słońce._
+**3. El tiempo fue muy bueno.**  
+_Pogoda była bardzo dobra._
 
 **4. Probé tapas y paella en restaurantes locales.**  
 _Spróbowałem tapas i paelli w lokalnych restauracjach._
 
-**5. Visité la Sagrada Familia y el parque Güell.**  
-_Odwiedziłem Sagradę Familię i park Güell._
+**5. Visité la Sagrada Familia.**  
+_Odwiedziłem Sagradę Familię._
 
 **6. Caminé por las calles del centro histórico.**  
 _Chodziłem po ulicach starego miasta._
@@ -465,8 +465,8 @@ _Kupiłem pamiątki dla przyjaciół._
 **9. Disfruté mucho el ambiente y la cultura.**  
 _Bardzo podobała mi się atmosfera i kultura._
 
-**10. Volví feliz y con ganas de viajar más.**  
-_Wróciłem szczęśliwy i z chęcią na kolejne podróże._
+**10. Volví feliz.**  
+_Wróciłem szczęśliwy._
 
 ---
 
@@ -479,8 +479,8 @@ _Czy byłeś już w Hiszpanii? Jakie masz doświadczenia? Jakie miejsca odwiedzi
 **1. Sí, he ido a España dos veces.**  
 _Tak, byłem w Hiszpanii dwa razy._
 
-**2. He visitado Madrid, Barcelona y Sevilla.**  
-_Odwiedziłem Madryt, Barcelonę i Sewillę._
+**2. He visitado Madrid y Barcelona.**  
+_Odwiedziłem Madryt i Barcelonę._
 
 **3. Me ha gustado mucho la comida y la cultura.**  
 _Bardzo podobała mi się kuchnia i kultura._
@@ -560,17 +560,17 @@ _Zimą w Polsce jest bardzo zimno i pada śnieg._
 **2. En verano hace calor y hace sol.**  
 _Latem jest ciepło i słonecznie._
 
-**3. En otoño hace fresco y llueve bastante.**  
-_Jesienią jest chłodno i dość często pada deszcz._
+**3. En otoño hace fresco y llueve.**  
+_Jesienią jest chłodno i pada deszcz._
 
 **4. En primavera todo florece y hace buen tiempo.**  
 _Wiosną wszystko kwitnie i jest ładna pogoda._
 
-**5. En España, el invierno es más suave y hace menos frío.**  
-_W Hiszpanii zima jest łagodniejsza i mniej zimno._
+**5. En España, el invierno hace menos frío que en Polonia..**  
+_W Hiszpanii zima jest mniej zimno niż w Polsce._
 
-**6. El verano en España es muy caluroso y seco.**  
-_Lato w Hiszpanii jest bardzo gorące i suche._
+**6. El verano en España hace much calor.**  
+_Lato w Hiszpanii jest bardzo gorące._
 
 **7. El otoño es agradable y hay menos lluvias que en Polonia.**  
 _Jesień jest przyjemna i pada mniej niż w Polsce._
@@ -606,8 +606,8 @@ _Opisz piosenkę, która ci się podoba. Kto jest autorem? O czym jest?_
 **1. Me gusta la canción “Viva la Vida” de Coldplay.**  
 _Lubię piosenkę „Viva la Vida” zespołu Coldplay._
 
-**2. El autor es la banda británica Coldplay.**  
-_Autorem jest brytyjska grupa Coldplay._
+**2. El autor es la banda Coldplay.**  
+_Autorem jest grupa Coldplay._
 
 **3. La canción habla de cambios y recuerdos.**  
 _Piosenka opowiada o zmianach i wspomnieniach._

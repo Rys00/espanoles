@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<!-- saved from url=(0083)file:///C:/Users/mateu/AppData/Local/Temp/crossnote2025512-119108-1wdsedx.vm8e.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>README</title>
+      
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="./README_files/katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<h1 id="hiszpański-ustny">Hiszpański ustny </h1>
+<h3 id="1-crees-que-los-estudiantes-tienen-demasiados-días-de-vacaciones-expresa-tu-opinión">1. ¿Crees que los estudiantes tienen demasiados días de vacaciones? Expresa tu opinión. </h3>
+<p><em>Czy uważasz, że uczniowie mają zbyt dużo dni wakacyjnych? Wyraź swoją opinię.</em></p>
+<p><code>¿Crees que los estudiantes tienen demasiados días de vacaciones? Expresa tu opinión. Min. 6 frases + expresiones: Creo que, opino que, etc.</code></p>
+<p><strong>1. Creo que los estudiantes no tienen demasiados días de vacaciones.</strong><br>
+<em>Uważam, że uczniowie nie mają zbyt wielu dni wakacji.</em></p>
+<p><strong>2. Opino que necesitan descansar porque las clases son largas y difíciles.</strong><br>
+<em>Sądzę, że potrzebują odpoczynku, ponieważ lekcje są długie i trudne.</em></p>
+<p><strong>3. Además, es importante tener tiempo para la familia.</strong><br>
+<em>Poza tym ważne jest, by mieć czas dla rodziny.</em></p>
+<p><strong>4. También necesitan tiempo para jugar y relajarse.</strong><br>
+<em>Potrzebują też czasu na zabawę i relaks.</em></p>
+<p><strong>5. En mi opinión, las vacaciones ayudan a recuperar energía.</strong><br>
+<em>Moim zdaniem wakacje pomagają odzyskać energię.</em></p>
+<p><strong>6. Por eso, pienso que los días de vacaciones son necesarios para los estudiantes.</strong><br>
+<em>Dlatego myślę, że dni wolne są potrzebne uczniom.</em></p>
+<hr>
+<h3 id="2-los-billetes-mensuales-de-transporte-público-en-varsovia-son-demasiado-caros-expresa-tu-opinión">2. Los billetes mensuales de transporte público en Varsovia son demasiado caros. Expresa tu opinión. </h3>
+<p><em>Bilety miesięczne na transport publiczny w Warszawie są zbyt drogie. Wyraź swoją opinię.</em></p>
+<p><code>Los billetes mensuales de transporte público en Varsovia son demasiado caros. Expresa tu opinión. Min. 6 frases</code></p>
+<p><strong>1. Creo que los billetes son demasiado caros para muchas personas.</strong><br>
+<em>Uważam, że bilety są zbyt drogie dla wielu osób.</em></p>
+<p><strong>2. Utilizo a menudo el transporte público.</strong><br>
+<em>Często używam transportu publicznego.</em></p>
+<p><strong>3. Porque tengo una gran familia, tengo billetes baratos.</strong><br>
+<em>Ponieważ mam dużą rodzinę, mam tanie bilety.</em></p>
+<p><strong>4. Pero a precios normales las billetes son demasiado caras.</strong><br>
+<em>Ale przy normalnych cenach bilety są za drogie.</em></p>
+<p><strong>5. Opino que deberían bajar los precios para estudiantes.</strong><br>
+<em>Uważam, że powinni obniżyć ceny dla studentów.</em></p>
+<p><strong>6. Muchas personas han dejado de usar el transporte público por el precio.</strong><br>
+<em>Wiele osób przestało korzystać z transportu publicznego z powodu ceny.</em></p>
+<hr>
+<h3 id="3-el-examen-oral-de-las-lenguas-extranjeras-es-necesario-qué-opinas">3. El examen oral de las lenguas extranjeras es necesario. ¿Qué opinas? </h3>
+<p><em>Egzamin ustny z języków obcych jest konieczny. Co o tym sądzisz?</em></p>
+<p><code>El examen oral de las lenguas extranjeras es necesario. ¿Qué opinas? Min. 6 frases.</code></p>
+<p><strong>1. No creo que el examen oral sea necesario.</strong><br>
+<em>Nie sądzę, żeby egzamin ustny był konieczny.</em></p>
+<p><strong>2. Especialmente en un nivel bajo de lenguaje.</strong><br>
+<em>W szczególności na niskim poziomie języka.</em></p>
+<p><strong>3. Es difícil encontrar frases sensatas.</strong><br>
+<em>Ciężko jest wymyślić sensowne zdania</em></p>
+<p><strong>4. Opino que muchas personas se ponen nerviosas.</strong><br>
+<em>Myślę, że wiele osób się denerwuje.</em></p>
+<p><strong>5. También se puede practicar la pronunciación en clase.</strong><br>
+<em>Wymową można również ćwiczyć w klasie.</em></p>
+<p><strong>6. Creo que los ejercicios escritos son más justos.</strong><br>
+<em>Myślę, że ćwiczenia pisemne są sprawiedliwsze.</em></p>
+<hr>
+<h3 id="4-conocer-la-gramática-es-más-importante-que-conocer-el-vocabulario-expresa-tu-opinión">4. Conocer la gramática es más importante que conocer el vocabulario. Expresa tu opinión. </h3>
+<p><em>Znajomość gramatyki jest ważniejsza niż znajomość słownictwa. Wyraź swoją opinię.</em></p>
+<p><code>Conocer la gramática es más importante que conocer el vocabulario. Expresa tu opinión. Min 6 frases</code></p>
+<p><strong>1. Opino que la gramática y el vocabulario son importantes juntos.</strong><br>
+<em>Uważam, że gramatyka i słownictwo są ważne razem.</em></p>
+<p><strong>2. Pienso que el vocabulario es básica para llevarse.</strong><br>
+<em>Myślę, że słownictwo jest podstawą do dogadania się.</em></p>
+<p><strong>3. Pero sin gramática es difícil hablar bien.</strong><br>
+<em>Ale bez gramatyki trudno mówić dobrze.</em></p>
+<p><strong>4. Es importante saber ambos.</strong><br>
+<em>To ważne aby umieć oba.</em></p>
+<p><strong>5. Pero primero aprendo el vocabulario.</strong><br>
+<em>Ale najpierw uczę się słownictwa.</em></p>
+<p><strong>6. Y despues la gramática</strong><br>
+<em>I potem gramatyki.</em></p>
+<hr>
+<h3 id="5-hoy-en-día-es-mejor-empezar-a-trabajar-después-de-la-escuela-secundaria-y-no-ir-a-la-universidad-qué-opinas">5. Hoy en día es mejor empezar a trabajar después de la escuela secundaria y no ir a la universidad. ¿Qué opinas? </h3>
+<p><em>Dzisiaj lepiej jest zacząć pracę po szkole średniej, a nie iść na uniwersytet. Co o tym sądzisz?</em></p>
+<p><code>Hoy en día es mejor empezar a trabajar después de la escuela secundaria y no ir a la universidad. ¿Qué opinas? Min 6 frases</code></p>
+<p><strong>1. Creo que depende de la persona y sus objetivos.</strong><br>
+<em>Uważam, że to zależy od osoby i jej celów.</em></p>
+<p><strong>3. La universidad ofrece conocimientos y experiencias importantes.</strong><br>
+<em>Uniwersytet daje ważną wiedzę i doświadczenia.</em></p>
+<p><strong>2. Pero muchas personas han encontrado trabajos sin universidad.</strong><br>
+<em>Ale wiele osób znalazło pracę bez studiów.</em></p>
+<p><strong>5. He hablado con amigos que trabajan y estudian al mismo tiempo.</strong><br>
+<em>Rozmawiałem z przyjaciółmi, którzy pracują i studiują jednocześnie.</em></p>
+<p><strong>4. Opino que estudiar y trabajar pueden combinarse bien.</strong><br>
+<em>Uważam, że naukę i pracę można dobrze połączyć.</em></p>
+<p><strong>6. Creo que deberías hacer lo que sientas.</strong><br>
+<em>Myślę, że powinieneś zrobić tak jak czujesz.</em></p>
+<hr>
+<h3 id="6-tu-amigo-español-quiere-venir-de-erasmus-a-polonia-dale-10-consejos-usa-el-imperativo">6. Tu amigo español quiere venir de Erasmus a Polonia. Dale 10 consejos. (usa el imperativo). </h3>
+<p><em>Twój hiszpański przyjaciel chce przyjechać na Erasmusa do Polski. Daj mu 10 rad (użyj trybu rozkazującego).</em></p>
+<p><code>Tu amigo español quiere venir de Erasmus a Polonia. Dale 10 consejos. (usa el imperativo).</code></p>
+<p><strong>1. Aprende algunas palabras en polaco.</strong><br>
+<em>Naucz się kilku słów po polsku.</em></p>
+<p><strong>2. Usa el transporte público para moverte fácilmente.</strong><br>
+<em>Korzystaj z transportu publicznego, żeby się łatwo przemieszczać.</em></p>
+<p><strong>3. Prueba la comida típica polaca.</strong><br>
+<em>Spróbuj tradycyjnych polskich potraw.</em></p>
+<p><strong>4. Visita los lugares históricos de la ciudad.</strong><br>
+<em>Odwiedź historyczne miejsca w mieście.</em></p>
+<p><strong>5. Haz amigos locales para practicar el idioma.</strong><br>
+<em>Poznaj miejscowych, żeby ćwiczyć język.</em></p>
+<p><strong>6. Respeta las costumbres y la cultura polaca.</strong><br>
+<em>Szanuj polskie zwyczaje i kulturę.</em></p>
+<p><strong>7. Participa en eventos universitarias.</strong><br>
+<em>Bierz udział w wydarzeniach uniwersyteckich.</em></p>
+<p><strong>8. Cuida tu salud y descansa bien.</strong><br>
+<em>Zadbaj o zdrowie i dobrze wypoczywaj.</em></p>
+<p><strong>9. Usa aplicaciones para aprender polaco.</strong><br>
+<em>Używaj aplikacji do nauki polskiego.</em></p>
+<p><strong>10. Disfruta la experiencia.</strong><br>
+<em>Ciesz się doświadczeniem.</em></p>
+<hr>
+<h3 id="7-tu-amiga-quiere-ir-a-chile-dale-10-consejos">7. Tu amiga quiere ir a Chile. Dale 10 consejos. </h3>
+<p><em>Twoja przyjaciółka chce jechać do Chile. Daj jej 10 rad.</em></p>
+<p><code>Tu amiga quiere ir a Chile. Dale 10 consejos.</code></p>
+<p><strong>1. Investiga la cultura chilena.</strong><br>
+<em>Zbadaj kulturę Chile.</em></p>
+<p><strong>2. Prepara tu documentación y visados necesarios.</strong><br>
+<em>Przygotuj dokumenty i potrzebne wizy.</em></p>
+<p><strong>3. Aprende algunas frases básicas en español.</strong><br>
+<em>Naucz się podstawowych zwrotów w hiszpańskim.</em></p>
+<p><strong>4. Respeta las tradiciones locales.</strong><br>
+<em>Szanuj lokalne tradycje.</em></p>
+<p><strong>5. Prueba la comida típica chilena.</strong><br>
+<em>Spróbuj tradycyjnych potraw chilijskich.</em></p>
+<p><strong>6. Usa protector solar porque hace mucho sol.</strong><br>
+<em>Stosuj krem z filtrem, bo jest dużo słońca.</em></p>
+<p><strong>7. Explora diferentes regiones.</strong><br>
+<em>Zwiedzaj różne regiony.</em></p>
+<p><strong>8. Evita lugares peligrosos.</strong><br>
+<em>Unikaj niebezpiecznych miejsc.</em></p>
+<p><strong>9. Aprovecha para practicar español con los locales.</strong><br>
+<em>Wykorzystaj okazję, żeby ćwiczyć hiszpański z miejscowymi.</em></p>
+<p><strong>10. Disfruta la experiencia.</strong><br>
+<em>Ciesz się doświadczeniem.</em></p>
+<h3 id="8-qué-has-hecho-esta-semana-10-frases">8. ¿Qué has hecho esta semana? 10 frases. </h3>
+<p><em>Co robiłeś w tym tygodniu?</em></p>
+<p><code>¿Qué has hecho esta semana? 10 frases. (Oceniane: gramatyka, słownictwo, różnorodność zdań)</code></p>
+<p><strong>1. He estudiado para mis exámenes.</strong><br>
+<em>Uczyłem się do egzaminów.</em></p>
+<p><strong>2. He ido al gimnasio tres veces.</strong><br>
+<em>Chodziłem na siłownię trzy razy.</em></p>
+<p><strong>3. He hablado con mis amigos por teléfono.</strong><br>
+<em>Rozmawiałem z przyjaciółmi przez telefon.</em></p>
+<p><strong>4. He ido al cine con mi familia.</strong><br>
+<em>Poszedłem do kina z moją rodziną.</em></p>
+<p><strong>5. He visto una película interesante - MI FR.</strong><br>
+<em>Oglądałem ciekawy film.</em></p>
+<p><strong>6. He leído un libro interesante.</strong><br>
+<em>Czytałem ciekawą książkę.</em></p>
+<p><strong>7. He trabajado en un proyecto de la universidad.</strong><br>
+<em>Pracowałem nad projektem na uczelnię.</em></p>
+<p><strong>8. He limpiado mi habitación.</strong><br>
+<em>Sprzątałem mój pokój.</em></p>
+<p><strong>9. He escuchado música para relajarme.</strong><br>
+<em>Słuchałem muzyki, żeby się zrelaksować.</em></p>
+<p><strong>10. He descansado mal por las noches.</strong><br>
+<em>Źle odpoczywałem w nocy.</em></p>
+<hr>
+<h3 id="9-qué-has-hecho-este-semestre-en-qué-has-participado-qué-has-aprendido-10-frases">9. ¿Qué has hecho este semestre? ¿En qué has participado? ¿Qué has aprendido? 10 frases. </h3>
+<p><em>Co zrobiłeś w tym semestrze? W czym uczestniczyłeś? Czego się nauczyłeś?</em></p>
+<p><code>¿Qué has hecho este semestre? ¿En qué has participado? ¿Qué has aprendido? 10 frases</code></p>
+<p><strong>1. He visto muchas películas interesantes.</strong><br>
+<em>Oglądałem wiele ciekawych filmów.</em></p>
+<p><strong>2. He empezado a trabajar en Elmiko.</strong><br>
+<em>Zacząłem pracować w Elmiko.</em></p>
+<p><strong>3. He aprendido a usar muchas cosas nuevas en la universidad.</strong><br>
+<em>Nauczyłem się używać wielu nowych rzeczy na uniwersytecie.</em></p>
+<p><strong>4. He ido a Varsonalia.</strong><br>
+<em>Poszedłem na Varsonalia.</em></p>
+<p><strong>5. He hecho presentacion en espanol.</strong><br>
+<em>Robiłem prezentację na hiszpańskim.</em></p>
+<p><strong>6. He mejorado mi nivel de español.</strong><br>
+<em>Poprawiłem swój poziom hiszpańskiego.</em></p>
+<p><strong>7. He ido mucho en bicicleta.</strong><br>
+<em>Jeździłem dużo na rowerze.</em></p>
+<p><strong>8. He hecho proyectos en mi universidad.</strong><br>
+<em>Robiłem projekty w uczelni.</em></p>
+<p><strong>9. He ido a Ełk y Poznań con mi chica.</strong><br>
+<em>Pojechałem do Ełku i Poznania z moją dziewczyną.</em></p>
+<p><strong>10. He solicitado una beca Erasmus en Eslovenia.</strong><br>
+<em>Złożyłem wniosek o stypendium Erasmus w słoweni.</em></p>
+<hr>
+<h3 id="10-explica-el-día-de-un-estudiante-utilizando-pretérito-perfecto-y-los-dibujos">10. Explica el día de un estudiante utilizando pretérito perfecto y los dibujos. </h3>
+<p><em>Opisz dzień studenta używając pretérito perfecto.</em></p>
+<p><code>Explica el día de un estudiante utilizando pretérito perfecto y los dibujos. (Opisz dzień studenta używając pretérito perfecto (na podstawie obrazków -rutina diaria – wstał o …, wyszedł …, zjadł obiad, etc).</code></p>
+<p><strong>1. Hoy me he llevantado a las siete y cuarto.</strong><br>
+<em>Dzisiaj wstałem o 7:15.</em></p>
+<p><strong>2. He desayunado rapido.</strong><br>
+<em>Zjadłem szybkie śniadanie.</em></p>
+<p><strong>3. He salido de casa a las siete y media.</strong><br>
+<em>Wyszedłem z domu o 7:30.</em></p>
+<p><strong>4. He llegado a la universidad a tiempo.</strong><br>
+<em>Dotarrłem na uczelnię na czas.</em></p>
+<p><strong>5. He asistido a tres clases diferentes.</strong><br>
+<em>Byłem na trzech różnych zajęciach.</em></p>
+<p><strong>6. Despues he comido con mis amigos.</strong><br>
+<em>Później zjadłem obiad z przyjaciółmi.</em></p>
+<p><strong>7. He estudiado en la biblioteca por la tarde.</strong><br>
+<em>Uczyłem się po południu w bibliotece.</em></p>
+<p><strong>8. He hecho deporte después de las clases.</strong><br>
+<em>Uprawiałem sport po zajęciach.</em></p>
+<p><strong>9. He cenado en casa con mi familia.</strong><br>
+<em>Zjadłem kolację w domu z rodziną.</em></p>
+<p><strong>10. He ido a dormir a las once y media de la noche.</strong><br>
+<em>Poszedłem spać o jedenastej trzydzieści w nocy.</em></p>
+<hr>
+<h3 id="11-qué-hiciste-ayerla-semana-pasadael-año-pasado-10-frases">11. ¿Qué hiciste ayer/la semana pasada/el año pasado? 10 frases. </h3>
+<p><em>Co robiłeś wczoraj/ w zeszłym tygodniu/ w zeszłym roku?</em></p>
+<p><code>¿Qué hiciste ayer/la semana pasada/ el año pasado? 10 frases</code></p>
+<p><strong>1. Ayer fui al cine con mi familia.</strong><br>
+<em>Wczoraj poszedłem do kina z rodziną.</em></p>
+<p><strong>2. La semana pasada estudié para un examen.</strong><br>
+<em>W zeszłym tygodniu uczyłem się do egzaminu.</em></p>
+<p><strong>3. El año pasado viajé a la playa con mi familia.</strong><br>
+<em>W zeszłym roku pojechałem z rodziną nad morze.</em></p>
+<p><strong>4. Ayer vi una pelicula interesante.</strong><br>
+<em>Wczoraj oglądałem ciekawy film.</em></p>
+<p><strong>5. La semana pasada trabajé en un proyecto universidado.</strong><br>
+<em>W zeszłym tygodniu pracowałem nad projektem uniwersyteckim.</em></p>
+<p><strong>6. El año pasado aprendí muchas palabras nuevas en español.</strong><br>
+<em>W zeszłym roku nauczyłem się wielu nowych słów po hiszpańsku.</em></p>
+<p><strong>7. Ayer hablé mucho con mis amigos.</strong><br>
+<em>Wczoraj dużo rozmawiałem z moimi znajomymi.</em></p>
+<p><strong>8. La semana pasada visité a mis abuelos.</strong><br>
+<em>W zeszłym tygodniu odwiedziłem dziadków.</em></p>
+<p><strong>9. Viajé a la montaña con mi familia.</strong><br>
+<em>Pojechałem w góry z rodziną.</em></p>
+<p><strong>10. Ayer escuché música y relajé mi mente.</strong><br>
+<em>Wczoraj słuchałem muzyki i relaksowałem się.</em></p>
+<hr>
+<h3 id="12-qué-aprendiste-el-año-pasado-10-frases">12. ¿Qué aprendiste el año pasado? 10 frases. </h3>
+<p><em>Czego nauczyłeś się w zeszłym roku?</em></p>
+<p><code>¿Qué aprendiste el año pasado? 10 frases.</code></p>
+<p><strong>1. Aprendí muchas palabras nuevas en español.</strong><br>
+<em>Nauczyłem się wielu nowych słów po hiszpańsku.</em></p>
+<p><strong>2. Y intenté ver una película en español..</strong><br>
+<em>I próbowałem obejrzeć film po hiszpańsku..</em></p>
+<p><strong>3. Aprendí a tocar la guitarra.</strong><br>
+<em>Nauczyłem się grać na gitarze.</em></p>
+<p><strong>4. Y la toqué con mis amigos.</strong><br>
+<em>I grałem na niej ze znajomymi.</em></p>
+<p><strong>5. Aprendí un nuevo lenguaje de programación.</strong><br>
+<em>Nauczyłem się nowego języka programowania.</em></p>
+<p><strong>6. Y escribí un proyecto en él.</strong><br>
+<em>I napisałem w nim projekt.</em></p>
+<p><strong>7. Aprendí a trabajar en equipo.</strong><br>
+<em>Nauczyłem się pracować w zespole.</em></p>
+<p><strong>8. Descubrí nuevas culturas y tradiciones.</strong><br>
+<em>Poznałem nowe kultury i tradycje.</em></p>
+<p><strong>9. Aprendí a resolver problemas difíciles.</strong><br>
+<em>Nauczyłem się rozwiązywać trudne problemy.</em></p>
+<p><strong>10. Mejoré mi confianza para hablar en público.</strong><br>
+<em>Poprawiłem swoją pewność siebie w mówieniu publicznym.</em></p>
+<hr>
+<h3 id="13-describe-tus-vacaciones-pasadas-cómo-pasaste-las-vacaciones-pasadas-qué-hiciste-10-frases">13. Describe tus vacaciones pasadas. ¿Cómo pasaste las vacaciones pasadas? ¿Qué hiciste? 10 frases. </h3>
+<p><em>Opisz swoje ostatnie wakacje. Jak je spędziłeś? Co robiłeś?</em></p>
+<p><code>Describe tus vacaciones pasadas. ¿Cómo pasaste las vacaciones pasadas? ¿Qué hiciste? 10 frases.</code></p>
+<p><strong>1. Mis vacaciones pasadas fueron muy divertidas.</strong><br>
+<em>Moje ostatnie wakacje były bardzo zabawne.</em></p>
+<p><strong>2. Viajé a la montaña con mi familia.</strong><br>
+<em>Pojechałem w góry z rodziną.</em></p>
+<p><strong>3. Hice senderismo y disfruté del paisaje.</strong><br>
+<em>Chodziłem po górach i podziwiałem krajobraz.</em></p>
+<p><strong>4. Probé comida típica de la región.</strong><br>
+<em>Spróbowałem lokalnych potraw.</em></p>
+<p><strong>5. Visité pueblos pequeños y museos.</strong><br>
+<em>Odwiedziłem małe miasteczka i muzea.</em></p>
+<p><strong>6. Descansé mucho y leí libros interesantes.</strong><br>
+<em>Dużo odpoczywałem i czytałem ciekawe książki.</em></p>
+<p><strong>7. Nadé en un lago y tomé el sol.</strong><br>
+<em>Pływałem w jeziorze i opalałem się.</em></p>
+<p><strong>8. Conocí a gente nueva y hice amigos.</strong><br>
+<em>Poznałem nowych ludzi i zdobyłem przyjaciół.</em></p>
+<p><strong>9. Saqué muchas fotos para recordar el viaje.</strong><br>
+<em>Zrobiłem dużo zdjęć na pamiątkę.</em></p>
+<p><strong>10. Volví feliz.</strong><br>
+<em>Wróciłem szczęśliwy.</em></p>
+<hr>
+<h3 id="14-describe-uno-de-tus-viajes-a-dónde-fuiste-qué-comiste-cómo-fuiste-allí-con-quién-qué-tiempo-hizo-qué-visitaste-10-frases">14. Describe uno de tus viajes. (¿a dónde fuiste?, ¿qué comiste?, ¿cómo fuiste allí?, ¿con quién?, ¿qué tiempo hizo?, ¿qué visitaste?) 10 frases. </h3>
+<p><em>Opisz jedną ze swoich podróży.</em></p>
+<p><code>Describe uno de tus viajes. (¿a dónde fuiste?, ¿qué comiste?, ¿cómo fuiste allí?, ¿con quién? ,¿qué tiempo hizo?, ¿qué visitaste? 10 frases.</code></p>
+<p><strong>1. Fui a Barcelona el verano pasado.</strong><br>
+<em>Pojechałem do Barcelony zeszłego lata.</em></p>
+<p><strong>2. Viajé en avión con mi familia.</strong><br>
+<em>Podróżowałem samolotem z rodziną.</em></p>
+<p><strong>3. El tiempo fue muy bueno.</strong><br>
+<em>Pogoda była bardzo dobra.</em></p>
+<p><strong>4. Probé tapas y paella en restaurantes locales.</strong><br>
+<em>Spróbowałem tapas i paelli w lokalnych restauracjach.</em></p>
+<p><strong>5. Visité la Sagrada Familia.</strong><br>
+<em>Odwiedziłem Sagradę Familię.</em></p>
+<p><strong>6. Caminé por las calles del centro histórico.</strong><br>
+<em>Chodziłem po ulicach starego miasta.</em></p>
+<p><strong>7. Hice muchas fotos para recordar el viaje.</strong><br>
+<em>Zrobiłem wiele zdjęć, żeby pamiętać podróż.</em></p>
+<p><strong>8. Compré recuerdos para mis amigos.</strong><br>
+<em>Kupiłem pamiątki dla przyjaciół.</em></p>
+<p><strong>9. Disfruté mucho el ambiente y la cultura.</strong><br>
+<em>Bardzo podobała mi się atmosfera i kultura.</em></p>
+<p><strong>10. Volví feliz.</strong><br>
+<em>Wróciłem szczęśliwy.</em></p>
+<hr>
+<h3 id="15-ya-has-ido-a-españa-cuál-es-tu-experiencia-qué-lugares-has-visitado">15. ¿Ya has ido a España? ¿Cuál es tu experiencia? ¿Qué lugares has visitado? </h3>
+<p><em>Czy byłeś już w Hiszpanii? Jakie masz doświadczenia? Jakie miejsca odwiedziłeś?</em></p>
+<p><code>¿Ya has ido a España? ¿Cuál es tu experiencia? ¿Qué lugares has visitado?</code></p>
+<p><strong>1. Sí, he ido a España dos veces.</strong><br>
+<em>Tak, byłem w Hiszpanii dwa razy.</em></p>
+<p><strong>2. He visitado Madrid y Barcelona.</strong><br>
+<em>Odwiedziłem Madryt i Barcelonę.</em></p>
+<p><strong>3. Me ha gustado mucho la comida y la cultura.</strong><br>
+<em>Bardzo podobała mi się kuchnia i kultura.</em></p>
+<p><strong>4. He probado platos típicos como la paella y el jamón.</strong><br>
+<em>Spróbowałem tradycyjnych potraw, jak paella i szynka.</em></p>
+<p><strong>5. He visitado museos y monumentos famosos.</strong><br>
+<em>Odwiedziłem znane muzea i zabytki.</em></p>
+<p><strong>6. He disfrutado del clima cálido y soleado.</strong><br>
+<em>Cieszyłem się ciepłą i słoneczną pogodą.</em></p>
+<p><strong>7. He conocido gente amable y divertida.</strong><br>
+<em>Poznałem miłych i zabawnych ludzi.</em></p>
+<p><strong>8. He aprendido mucho sobre la historia española.</strong><br>
+<em>Nauczyłem się dużo o historii Hiszpanii.</em></p>
+<p><strong>9. He participado en fiestas tradicionales.</strong><br>
+<em>Brałem udział w tradycyjnych świętach.</em></p>
+<p><strong>10. Espero volver pronto y descubrir más lugares.</strong><br>
+<em>Mam nadzieję wrócić wkrótce i odkryć więcej miejsc.</em></p>
+<hr>
+<h3 id="16-ya-has-">16. ¿Ya has …….? </h3>
+<p><em>Czy już …...?</em> (Przykłady odpowiedzi z użyciem pretérito perfecto)</p>
+<p><code>¿Ya has …….?</code></p>
+<p><strong>1. Sí, ya he visitado muchos países.</strong><br>
+<em>Tak, odwiedziłem już wiele krajów.</em></p>
+<p><strong>2. No, todavía no he probado comida japonesa.</strong><br>
+<em>Nie, jeszcze nie próbowałem japońskiego jedzenia.</em></p>
+<p><strong>3. Sí, he leído ese libro varias veces.</strong><br>
+<em>Tak, czytałem tę książkę kilka razy.</em></p>
+<p><strong>4. No, no he ido a un concierto este año.</strong><br>
+<em>Nie, nie byłem na koncercie w tym roku.</em></p>
+<p><strong>5. Sí, he aprendido a conducir un coche.</strong><br>
+<em>Tak, nauczyłem się prowadzić samochód.</em></p>
+<hr>
+<h3 id="17-qué-tiempo-hace-hoy">17. ¿Qué tiempo hace hoy? </h3>
+<p><em>Jaka jest dziś pogoda?</em></p>
+<p><code>¿Qué tiempo hace hoy?</code></p>
+<p><strong>1. Hoy hace sol y hace calor.</strong><br>
+<em>Dziś jest słonecznie i ciepło.</em></p>
+<p><strong>2. También hay algo de viento fresco.</strong><br>
+<em>Jest też trochę świeżego wiatru.</em></p>
+<p><strong>3. No está nublado y no llueve.</strong><br>
+<em>Nie ma chmur i nie pada.</em></p>
+<hr>
+<h3 id="18-qué-tiempo-hace-en-poloniaespaña-en-inviernoveranootoñoprimavera">18. ¿Qué tiempo hace en Polonia/España en invierno/verano/otoño/primavera? </h3>
+<p><em>Jaka jest pogoda w Polsce/Hiszpanii zimą/latem/jesienią/wiosną?</em></p>
+<p><code>¿Qué tiempo hace en Polonia/España en invierno/verano/otoño/primavera?</code></p>
+<p><strong>1. En invierno en Polonia hace mucho frío y nieva.</strong><br>
+<em>Zimą w Polsce jest bardzo zimno i pada śnieg.</em></p>
+<p><strong>2. En verano hace calor y hace sol.</strong><br>
+<em>Latem jest ciepło i słonecznie.</em></p>
+<p><strong>3. En otoño hace fresco y llueve.</strong><br>
+<em>Jesienią jest chłodno i pada deszcz.</em></p>
+<p><strong>4. En primavera todo florece y hace buen tiempo.</strong><br>
+<em>Wiosną wszystko kwitnie i jest ładna pogoda.</em></p>
+<p><strong>5. En España, el invierno hace menos frío que en Polonia..</strong><br>
+<em>W Hiszpanii zima jest mniej zimno niż w Polsce.</em></p>
+<p><strong>6. El verano en España hace much calor.</strong><br>
+<em>Lato w Hiszpanii jest bardzo gorące.</em></p>
+<p><strong>7. El otoño es agradable y hay menos lluvias que en Polonia.</strong><br>
+<em>Jesień jest przyjemna i pada mniej niż w Polsce.</em></p>
+<p><strong>8. La primavera es hermosa con muchas flores y sol.</strong><br>
+<em>Wiosna jest piękna, z wieloma kwiatami i słońcem.</em></p>
+<hr>
+<h3 id="19-qué-tiempo-hizo-ayer">19. ¿Qué tiempo hizo ayer? </h3>
+<p><em>Jaka była pogoda wczoraj?</em></p>
+<p><code>¿Qué tiempo hizo ayer?</code></p>
+<p><strong>1. Ayer hizo frío y llovió todo el día.</strong><br>
+<em>Wczoraj było zimno i cały dzień padał deszcz.</em></p>
+<p><strong>2. También estuvo nublado y ventoso.</strong><br>
+<em>Było też pochmurno i wietrznie.</em></p>
+<p><strong>3. Por la tarde mejoró y salió el sol.</strong><br>
+<em>Po południu się poprawiło i wyszło słońce.</em></p>
+<hr>
+<h3 id="20-describe-una-canción-que-te-gusta-quién-es-el-autor-de-qué-habla">20. Describe una canción que te gusta. ¿Quién es el autor? ¿De qué habla? </h3>
+<p><em>Opisz piosenkę, która ci się podoba. Kto jest autorem? O czym jest?</em></p>
+<p><code>Describe una canción que te gusta. ¿Quién es el autor? ¿De qué habla?</code></p>
+<p><strong>1. Me gusta la canción “Viva la Vida” de Coldplay.</strong><br>
+<em>Lubię piosenkę „Viva la Vida” zespołu Coldplay.</em></p>
+<p><strong>2. El autor es la banda Coldplay.</strong><br>
+<em>Autorem jest grupa Coldplay.</em></p>
+<p><strong>3. La canción habla de cambios y recuerdos.</strong><br>
+<em>Piosenka opowiada o zmianach i wspomnieniach.</em></p>
+<p><strong>4. La melodía es alegre y pegadiza.</strong><br>
+<em>Melodia jest radosna i wpadająca w ucho.</em></p>
+<p><strong>5. La escucho cuando quiero sentirme mejor.</strong><br>
+<em>Słucham jej, kiedy chcę się poczuć lepiej.</em></p>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  </body></html>
